@@ -13,5 +13,4 @@ First Year 2019/2020 Computer Department @ Faculty of Engineering Cairo Universi
 
 # GUI
 ![](AddLadder%201.bmp)
-![](AddLadder%202.bmp)
-![](AddLadder%203.bmp)
+
